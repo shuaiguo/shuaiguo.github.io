@@ -93,11 +93,11 @@ function flashVideoFallback(){
 
 function wrapFlashVideos() {
   $('object').each(function(i, object) {
-    if( $(object).find('param[name=movie]').length ){
+    if( $(object).attr('id') != "JIATHISSWF" && $(object).find('param[name=movie]').length ){
       $(object).wrap('<div class="flash-video">')
     }
   });
-  $('iframe[src*=vimeo],iframe[src*=youtube]').wrap('<div class="flash-video">')
+  $('iframe[src*=vimeo],iframe[src*=youtube],iframe[src*=youku]').wrap('<div class="flash-video">')
 }
 
 function renderDeliciousLinks(items) {
