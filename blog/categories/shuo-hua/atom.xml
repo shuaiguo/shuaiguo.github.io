@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[分类：说话 | 学堂]]></title>
-  <link href="http://shuaiguo.github.io/blog/categories/shuo-hua/atom.xml" rel="self"/>
-  <link href="http://shuaiguo.github.io/"/>
-  <updated>2013-08-07T01:11:09+08:00</updated>
-  <id>http://shuaiguo.github.io/</id>
+  <link href="http://xuetang.me/blog/categories/shuo-hua/atom.xml" rel="self"/>
+  <link href="http://xuetang.me/"/>
+  <updated>2013-08-07T11:48:06+08:00</updated>
+  <id>http://xuetang.me/</id>
   <author>
     <name><![CDATA[天使大哥]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[南周事件拆开来看]]></title>
-    <link href="http://shuaiguo.github.io/blog/2013/01/16/nanzhou/"/>
+    <link href="http://xuetang.me/blog/2013/01/16/nanzhou/"/>
     <updated>2013-01-16T03:46:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2013/01/16/nanzhou</id>
+    <id>http://xuetang.me/blog/2013/01/16/nanzhou</id>
     <content type="html"><![CDATA[<p>南方周末事件已有半月之久了，社会各界的广泛关注也一定程度上催生了一次关于宣传管理、媒介素养、新闻自由的讨论。这个事件仍有太多的细节包裹在迷雾之中，急着站队，急着下结论，不如坐下来，一点一点拆开来看。</p>
 
 <p>《南方周末》是一个在国内有着不俗影响力的纸媒，它独特的新闻视角和报道风格培养了一批自己的读者群，也招致了不少的争议。简言之，有很多南周粉，也有很多南周黑。和评价一个公众人物一样，在这次的南方周末事件中，最应该坚守的便是就事论事原则，绝不可凭个人喜恶。</p>
@@ -100,9 +100,9 @@
   
   <entry>
     <title type="html"><![CDATA[请用文明争取文明]]></title>
-    <link href="http://shuaiguo.github.io/blog/2012/09/15/wenming/"/>
+    <link href="http://xuetang.me/blog/2012/09/15/wenming/"/>
     <updated>2012-09-15T20:40:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2012/09/15/wenming</id>
+    <id>http://xuetang.me/blog/2012/09/15/wenming</id>
     <content type="html"><![CDATA[<p>我今年7月研究生毕业。我会基于事件驱动的网络I/O写一个万人同时在线的服务器应用，会写一个高效的缓存层加速读写，会通过合理的负载均衡和系统架构实现服务海量用户，会各种安全策略保障稳定可靠，会设计精巧的数据挖掘算法实现个性化推荐。不仅仅这些，我发现我会很多。我觉得我是一个有手艺的强者。</p>
 
 <p>可今天，当我看到从微博上、人人上四面八方上传的因为反日游行导致的打砸抢烧，我徒然生出一种无力感。</p>
@@ -129,9 +129,9 @@
   
   <entry>
     <title type="html"><![CDATA[总要有一个过程]]></title>
-    <link href="http://shuaiguo.github.io/blog/2012/08/01/guocheng/"/>
+    <link href="http://xuetang.me/blog/2012/08/01/guocheng/"/>
     <updated>2012-08-01T04:05:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2012/08/01/guocheng</id>
+    <id>http://xuetang.me/blog/2012/08/01/guocheng</id>
     <content type="html"><![CDATA[<p>2008开始，每逢大型运动会，大家都会把举国体制，养运动员，争金牌，这些事情数落一遍。</p>
 
 <p>反思举国体制，提倡把精力花在群众体育这事，我也干过，翻之前的日志，广州亚运会那会儿就曾花工夫好好想过。</p>
@@ -186,9 +186,9 @@
   
   <entry>
     <title type="html"><![CDATA[雷锋很萌哒，乃们不要黑他]]></title>
-    <link href="http://shuaiguo.github.io/blog/2012/03/06/leifeng/"/>
+    <link href="http://xuetang.me/blog/2012/03/06/leifeng/"/>
     <updated>2012-03-06T23:38:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2012/03/06/leifeng</id>
+    <id>http://xuetang.me/blog/2012/03/06/leifeng</id>
     <content type="html"><![CDATA[<p>3月5日是学雷锋日，2012年又是雷锋同志逝世50周年。在这样的日子里，雷锋被集体吐槽了。</p>
 
 <p>雷锋的照片，雷锋的经历，雷锋的消费水平，雷锋的初恋女友，都被充分地挖了出来。微博里，人人里，瞧去，一大片一大片满是的。不同的人，试着从不同的维度，来勾勒出更立体，更丰满，更不为人知的雷锋。</p>
@@ -235,9 +235,9 @@
   
   <entry>
     <title type="html"><![CDATA[从三体中的宇宙社会学看商业竞争与创业]]></title>
-    <link href="http://shuaiguo.github.io/blog/2012/02/09/santi/"/>
+    <link href="http://xuetang.me/blog/2012/02/09/santi/"/>
     <updated>2012-02-09T19:58:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2012/02/09/santi</id>
+    <id>http://xuetang.me/blog/2012/02/09/santi</id>
     <content type="html"><![CDATA[<p>我俯在回京的卧铺上，用手机看完了《三体2》，车轮与车轨在身下咣当咣当地直响，更显得熄灯后车厢里的安静。</p>
 
 <p>这小说写得果然很有水平，盛名之下副得盆满钵满。大刘用实力让代笔的可能性降到了绝对零度。</p>

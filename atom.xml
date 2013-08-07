@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[学堂]]></title>
-  <link href="http://shuaiguo.github.io/atom.xml" rel="self"/>
-  <link href="http://shuaiguo.github.io/"/>
-  <updated>2013-08-07T01:11:09+08:00</updated>
-  <id>http://shuaiguo.github.io/</id>
+  <link href="http://xuetang.me/atom.xml" rel="self"/>
+  <link href="http://xuetang.me/"/>
+  <updated>2013-08-07T11:48:06+08:00</updated>
+  <id>http://xuetang.me/</id>
   <author>
     <name><![CDATA[天使大哥]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[青春有多长]]></title>
-    <link href="http://shuaiguo.github.io/blog/2013/04/29/youth/"/>
+    <link href="http://xuetang.me/blog/2013/04/29/youth/"/>
     <updated>2013-04-29T17:20:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2013/04/29/youth</id>
+    <id>http://xuetang.me/blog/2013/04/29/youth</id>
     <content type="html"><![CDATA[<p>最近上映了一个电影新片，叫《致我们终将逝去的青春》，实在没时间来看，便偷闲在社交网络里看朋友们的评价，有趣的是，几乎所有人的都不在讨论电影本身，而似乎在悼念自己的青春。</p>
 
 <p>春，在中华文化里是一个特殊的时间概念，唐诗宋词里就有大把大把伤春的句子，落红残英，东风暮雨，无不传递着古人对光阴易逝、人生苦短的感叹。这样的“伤春”，也算是古人对自己终将逝去的青春的一种怀念。</p>
@@ -46,9 +46,9 @@
   
   <entry>
     <title type="html"><![CDATA[南周事件拆开来看]]></title>
-    <link href="http://shuaiguo.github.io/blog/2013/01/16/nanzhou/"/>
+    <link href="http://xuetang.me/blog/2013/01/16/nanzhou/"/>
     <updated>2013-01-16T03:46:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2013/01/16/nanzhou</id>
+    <id>http://xuetang.me/blog/2013/01/16/nanzhou</id>
     <content type="html"><![CDATA[<p>南方周末事件已有半月之久了，社会各界的广泛关注也一定程度上催生了一次关于宣传管理、媒介素养、新闻自由的讨论。这个事件仍有太多的细节包裹在迷雾之中，急着站队，急着下结论，不如坐下来，一点一点拆开来看。</p>
 
 <p>《南方周末》是一个在国内有着不俗影响力的纸媒，它独特的新闻视角和报道风格培养了一批自己的读者群，也招致了不少的争议。简言之，有很多南周粉，也有很多南周黑。和评价一个公众人物一样，在这次的南方周末事件中，最应该坚守的便是就事论事原则，绝不可凭个人喜恶。</p>
@@ -131,9 +131,9 @@
   
   <entry>
     <title type="html"><![CDATA[Notemate的故事]]></title>
-    <link href="http://shuaiguo.github.io/blog/2012/12/28/notemate/"/>
+    <link href="http://xuetang.me/blog/2012/12/28/notemate/"/>
     <updated>2012-12-28T01:52:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2012/12/28/notemate</id>
+    <id>http://xuetang.me/blog/2012/12/28/notemate</id>
     <content type="html"><![CDATA[<p>真惊喜，“Notemate云课堂”登上了清华的主页，从平安夜一直跨到圣诞节。回头一看，居然已经走了两年的路，夜阑人静，就给大家敲一敲 Notemate 的故事。</p>
 
 <p><img src="http://fmn.rrfmn.com/fmn058/20121224/1115/large_ZcLK_2b4600005ae61191.jpg" alt="Notemate" /></p>
@@ -241,9 +241,9 @@
   
   <entry>
     <title type="html"><![CDATA[谁的中文更好？]]></title>
-    <link href="http://shuaiguo.github.io/blog/2012/11/01/chinese/"/>
+    <link href="http://xuetang.me/blog/2012/11/01/chinese/"/>
     <updated>2012-11-01T23:39:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2012/11/01/chinese</id>
+    <id>http://xuetang.me/blog/2012/11/01/chinese</id>
     <content type="html"><![CDATA[<p>这些天在微博上，常常看到人们在对比 iPad mini 在两岸三地的不同文案，得出结论，台湾中文更好，继而感慨台湾传统文化传承得好，仿佛笔记本风扇里都会吹来“大平洋的风”。</p>
 
 <p>先看一下背景。</p>
@@ -282,9 +282,9 @@
   
   <entry>
     <title type="html"><![CDATA[请用文明争取文明]]></title>
-    <link href="http://shuaiguo.github.io/blog/2012/09/15/wenming/"/>
+    <link href="http://xuetang.me/blog/2012/09/15/wenming/"/>
     <updated>2012-09-15T20:40:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2012/09/15/wenming</id>
+    <id>http://xuetang.me/blog/2012/09/15/wenming</id>
     <content type="html"><![CDATA[<p>我今年7月研究生毕业。我会基于事件驱动的网络I/O写一个万人同时在线的服务器应用，会写一个高效的缓存层加速读写，会通过合理的负载均衡和系统架构实现服务海量用户，会各种安全策略保障稳定可靠，会设计精巧的数据挖掘算法实现个性化推荐。不仅仅这些，我发现我会很多。我觉得我是一个有手艺的强者。</p>
 
 <p>可今天，当我看到从微博上、人人上四面八方上传的因为反日游行导致的打砸抢烧，我徒然生出一种无力感。</p>
@@ -311,9 +311,9 @@
   
   <entry>
     <title type="html"><![CDATA[总要有一个过程]]></title>
-    <link href="http://shuaiguo.github.io/blog/2012/08/01/guocheng/"/>
+    <link href="http://xuetang.me/blog/2012/08/01/guocheng/"/>
     <updated>2012-08-01T04:05:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2012/08/01/guocheng</id>
+    <id>http://xuetang.me/blog/2012/08/01/guocheng</id>
     <content type="html"><![CDATA[<p>2008开始，每逢大型运动会，大家都会把举国体制，养运动员，争金牌，这些事情数落一遍。</p>
 
 <p>反思举国体制，提倡把精力花在群众体育这事，我也干过，翻之前的日志，广州亚运会那会儿就曾花工夫好好想过。</p>
@@ -368,9 +368,9 @@
   
   <entry>
     <title type="html"><![CDATA[《舌尖上的清华》策划摘要]]></title>
-    <link href="http://shuaiguo.github.io/blog/2012/05/18/shejian/"/>
+    <link href="http://xuetang.me/blog/2012/05/18/shejian/"/>
     <updated>2012-05-18T17:31:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2012/05/18/shejian</id>
+    <id>http://xuetang.me/blog/2012/05/18/shejian</id>
     <content type="html"><![CDATA[<p>纪录片《舌尖上的中国》正在热播当中，受到了海内外中华吃货的欢迎与好评。据知情人士透露，作为这一系列纪录片的姊妹篇，《舌尖上的清华》也将于近日开拍，向大家讲述有着“聚半壁吃货”之称的清华大学的美食文化。</p>
 
 <p>与《舌尖上的中国》相仿，姊妹篇《舌尖上的清华》也将分为七集进行摄制，一位不愿透露姓名的内部人士说，相关工作计划将于猴年的马月正式启动，并向记者提供了整体的策划摘要。</p>
@@ -393,9 +393,9 @@
   
   <entry>
     <title type="html"><![CDATA[雷锋很萌哒，乃们不要黑他]]></title>
-    <link href="http://shuaiguo.github.io/blog/2012/03/06/leifeng/"/>
+    <link href="http://xuetang.me/blog/2012/03/06/leifeng/"/>
     <updated>2012-03-06T23:38:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2012/03/06/leifeng</id>
+    <id>http://xuetang.me/blog/2012/03/06/leifeng</id>
     <content type="html"><![CDATA[<p>3月5日是学雷锋日，2012年又是雷锋同志逝世50周年。在这样的日子里，雷锋被集体吐槽了。</p>
 
 <p>雷锋的照片，雷锋的经历，雷锋的消费水平，雷锋的初恋女友，都被充分地挖了出来。微博里，人人里，瞧去，一大片一大片满是的。不同的人，试着从不同的维度，来勾勒出更立体，更丰满，更不为人知的雷锋。</p>
@@ -442,9 +442,9 @@
   
   <entry>
     <title type="html"><![CDATA[从三体中的宇宙社会学看商业竞争与创业]]></title>
-    <link href="http://shuaiguo.github.io/blog/2012/02/09/santi/"/>
+    <link href="http://xuetang.me/blog/2012/02/09/santi/"/>
     <updated>2012-02-09T19:58:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2012/02/09/santi</id>
+    <id>http://xuetang.me/blog/2012/02/09/santi</id>
     <content type="html"><![CDATA[<p>我俯在回京的卧铺上，用手机看完了《三体2》，车轮与车轨在身下咣当咣当地直响，更显得熄灯后车厢里的安静。</p>
 
 <p>这小说写得果然很有水平，盛名之下副得盆满钵满。大刘用实力让代笔的可能性降到了绝对零度。</p>
@@ -499,9 +499,9 @@
   
   <entry>
     <title type="html"><![CDATA[呢的妙用]]></title>
-    <link href="http://shuaiguo.github.io/blog/2012/01/13/ne/"/>
+    <link href="http://xuetang.me/blog/2012/01/13/ne/"/>
     <updated>2012-01-13T10:45:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2012/01/13/ne</id>
+    <id>http://xuetang.me/blog/2012/01/13/ne</id>
     <content type="html"><![CDATA[<p>在淘宝上为家里置办点年货，免不了和一些店铺的客服打交道，一位客服的语言让我印象深刻。</p>
 
 <p>她（当然也可能是他）几乎在每一句话的最后都要加一个“呢”，初看来，汗毛倒竖，但读着读着，就会发现这是一个很好的用法，会使每一个普普通通的句子，幻化出新的活力。</p>
@@ -518,9 +518,9 @@
   
   <entry>
     <title type="html"><![CDATA[杂谈2011：世界的诉求是同步]]></title>
-    <link href="http://shuaiguo.github.io/blog/2012/01/09/tongbu/"/>
+    <link href="http://xuetang.me/blog/2012/01/09/tongbu/"/>
     <updated>2012-01-09T00:45:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2012/01/09/tongbu</id>
+    <id>http://xuetang.me/blog/2012/01/09/tongbu</id>
     <content type="html"><![CDATA[<p>拿高考作文体，来记一下2011。话题：同步。</p>
 
 <p>这几天网络上在传一件很逗的事情，不知是真是假。说的是，一个女生的iPhone不小心丢掉了，但好在升级到了iOS 5，通过iCloud服务拿到“新主人”的大量自拍，从而找回手机有了重要的线索。</p>
@@ -571,9 +571,9 @@
   
   <entry>
     <title type="html"><![CDATA[我不属于我自己]]></title>
-    <link href="http://shuaiguo.github.io/blog/2011/11/24/ziji/"/>
+    <link href="http://xuetang.me/blog/2011/11/24/ziji/"/>
     <updated>2011-11-24T17:44:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2011/11/24/ziji</id>
+    <id>http://xuetang.me/blog/2011/11/24/ziji</id>
     <content type="html"><![CDATA[<p>这个标题可能读起来就有些拗口，从逻辑上来看也有些混乱，但这样一句拗口的、逻辑混乱的话着实隐藏着一个小道理。记得我第一次想到这句话是在初中的时候，当时我母亲也在那所初中教学，每当我在课堂上、考试中、校园里犯一个错误，往往会听到，你看那谁谁谁家的孩子，上课还吃东西，这种题还做错，见到我招呼也不打，那谁谁谁家的孩子怎么能这样呢。</p>
 
 <p>我有点吃惊，原来我不好不光光是我不好，我的言行举止还代表着我老妈，所以这样来看，我不属于我自己，我还属于这个家。</p>
@@ -606,9 +606,9 @@
   
   <entry>
     <title type="html"><![CDATA[三的力量]]></title>
-    <link href="http://shuaiguo.github.io/blog/2011/10/16/three/"/>
+    <link href="http://xuetang.me/blog/2011/10/16/three/"/>
     <updated>2011-10-16T22:39:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2011/10/16/three</id>
+    <id>http://xuetang.me/blog/2011/10/16/three</id>
     <content type="html"><![CDATA[<p>今天水木十大上有一个帖子讨论得挺热闹，帖子里转了一篇老文《<a href="http://www.cnbeta.com/articles/136262.htm">苹果的骗局</a>》，大致讲的意思是封闭而自大的苹果在技术上总是有所保留，从而保证一次又一次“惊人”的更新。作者质疑，很多在技术实现上非常容易的功能总是被苹果保留到下一代产品当中，这是对广大消费者的忽悠，这是一个骗局。</p>
 
 <p>从产品设计的角度上来看，我不这么认为。</p>
@@ -639,9 +639,9 @@
   
   <entry>
     <title type="html"><![CDATA[七绝口占 悼念乔布斯]]></title>
-    <link href="http://shuaiguo.github.io/blog/2011/10/06/jobs/"/>
+    <link href="http://xuetang.me/blog/2011/10/06/jobs/"/>
     <updated>2011-10-06T23:28:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2011/10/06/jobs</id>
+    <id>http://xuetang.me/blog/2011/10/06/jobs</id>
     <content type="html"><![CDATA[<p>奈何秋夜妒英才，
 星陨唤得举世哀。
 怅望凭栏思旧语，
@@ -651,9 +651,9 @@
   
   <entry>
     <title type="html"><![CDATA[你花开后百花杀]]></title>
-    <link href="http://shuaiguo.github.io/blog/2011/07/30/hua/"/>
+    <link href="http://xuetang.me/blog/2011/07/30/hua/"/>
     <updated>2011-07-30T22:38:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2011/07/30/hua</id>
+    <id>http://xuetang.me/blog/2011/07/30/hua</id>
     <content type="html"><![CDATA[<p>今天凌晨，一位在报纸工作的朋友在飞信上发来牢骚，说大批写好的稿子不能发了，上头来了通知，动车这事不能再提了。对于这样的禁言令，虽说不上震惊，但还是免不了吃惊。上微博，果然看到数百位媒体人在怨念地贴着被撤下的新闻和版面，黑夜给了他们黑色的眼睛，他们却用它来熬夜重新排版。</p>
 
 <p>一场逝去了40位同胞的事故，是很多长期累积弊端的综合爆发，不搞清楚，不弄明白，不分析透，很难让地上的人安心，让地下的人安息。在“头七”之日，在各种背后的新闻被挖掘之时，在广泛而有建议性的讨论刚刚铺开之际，这样的通知是让所有人寒心的。</p>
@@ -676,9 +676,9 @@
   
   <entry>
     <title type="html"><![CDATA[我的梦想]]></title>
-    <link href="http://shuaiguo.github.io/blog/2011/07/27/my-dream/"/>
+    <link href="http://xuetang.me/blog/2011/07/27/my-dream/"/>
     <updated>2011-07-27T23:28:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2011/07/27/my-dream</id>
+    <id>http://xuetang.me/blog/2011/07/27/my-dream</id>
     <content type="html"><![CDATA[<p>小学的时候，老爹给买了一本《逻辑推理故事》，看得如痴如醉，当时最大的理想是当一个侦探，来用智慧破解其他人的谜团，还世间一个公道。</p>
 
 <p>有一次小学的课上，老师问所有同学，大家将来想做什么？很多同学纷纷说，想当科学家。问到我时，我则老老实实说，我想当侦探，结果全班哄堂大笑。然后老师告诉我，咱们国家没有侦探。我常记得，这个消息让我伤心了一个礼拜。</p>
@@ -727,9 +727,9 @@
   
   <entry>
     <title type="html"><![CDATA[做个奥特曼]]></title>
-    <link href="http://shuaiguo.github.io/blog/2011/07/26/outman/"/>
+    <link href="http://xuetang.me/blog/2011/07/26/outman/"/>
     <updated>2011-07-26T02:12:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2011/07/26/outman</id>
+    <id>http://xuetang.me/blog/2011/07/26/outman</id>
     <content type="html"><![CDATA[<h3>这辈子做奥特曼，挺好</h3>
 
 <p>连着几件事，让我觉得奥特曼实在是我学习的榜样。</p>
@@ -784,9 +784,9 @@
   
   <entry>
     <title type="html"><![CDATA[温水煮清华]]></title>
-    <link href="http://shuaiguo.github.io/blog/2011/05/23/wenshui/"/>
+    <link href="http://xuetang.me/blog/2011/05/23/wenshui/"/>
     <updated>2011-05-23T22:14:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2011/05/23/wenshui</id>
+    <id>http://xuetang.me/blog/2011/05/23/wenshui</id>
     <content type="html"><![CDATA[<p>有两个锅，都加上水，分别煮两个校园。第一个锅里，立即把火调到“肯德基楼”，校园一下子炸开了锅，实验失败；第二个锅里，将火力依次从“善斋”，“逸夫楼”，“松山金炯珠楼”，“高田芳行馆”，最后调到“真维斯楼”，实验成功。</p>
 
 <p>把建筑的冠名用于学校的教育基金募捐，我觉得这是一件利校利民的好事，将社会上乐于教育公益的资本用学校的建设，用于人才的聚拢，用于校园的改善，你情我愿，何乐不为。而且很多世界一流大学，也是这样做的。</p>
@@ -821,9 +821,9 @@
   
   <entry>
     <title type="html"><![CDATA[一起跑着跑着，人就没了]]></title>
-    <link href="http://shuaiguo.github.io/blog/2011/05/14/run/"/>
+    <link href="http://xuetang.me/blog/2011/05/14/run/"/>
     <updated>2011-05-14T22:38:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2011/05/14/run</id>
+    <id>http://xuetang.me/blog/2011/05/14/run</id>
     <content type="html"><![CDATA[<p>下午开完会，回到宿舍，打开躺在硬盘上很久也没打开的《此间的少年》电影版，发现居然长达两个小时，手头无急事，就熬着性子看完了。再一看表，已经接近七点，赶紧奔赴食堂。</p>
 
 <p>跟师傅打了三两米饭，接过来一看，满满一盘子，快有半斤了。坐在那里边吃，边回想《此间的少年》，不禁一笑，原来我们的生活其实就是三两米饭，有时候比二两还少，有时候多得吓人，是多是少，拼自己人品，看别人心情，递上一张有钱的饭卡是我们的本分，除此之外，皆是缘分，和努力已经没什么关系了。</p>
@@ -862,9 +862,9 @@
   
   <entry>
     <title type="html"><![CDATA[那些与网费有关的爱情故事]]></title>
-    <link href="http://shuaiguo.github.io/blog/2011/05/06/wangfei/"/>
+    <link href="http://xuetang.me/blog/2011/05/06/wangfei/"/>
     <updated>2011-05-06T20:15:00+08:00</updated>
-    <id>http://shuaiguo.github.io/blog/2011/05/06/wangfei</id>
+    <id>http://xuetang.me/blog/2011/05/06/wangfei</id>
     <content type="html"><![CDATA[<p>下午在实验室与同组的童鞋们聊网费的改革，聊出了一个小段子，发在刚刚IPO的人人网上，谁知道吃完饭回来一看，竟被转发了三百多次，于是老夫编故事的兴致被激发了。</p>
 
 <h3>你的５Ｇ</h3>
