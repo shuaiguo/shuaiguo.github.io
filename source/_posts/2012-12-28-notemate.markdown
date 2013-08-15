@@ -7,15 +7,15 @@ categories: 民工
 ---
 真惊喜，“Notemate云课堂”登上了清华的主页，从平安夜一直跨到圣诞节。回头一看，居然已经走了两年的路，夜阑人静，就给大家敲一敲 Notemate 的故事。
 
-![Notemate](http://fmn.rrfmn.com/fmn058/20121224/1115/large_ZcLK_2b4600005ae61191.jpg)
+![Notemate](/images/posts/notemate.jpg)
 
 ### 第０章 Notemate是什么
 
 Notemate是一套软件系统，通过在各种与教学相关的设备上安装和使用，为老师和学生提供绝佳的授课和学习体验，同时在系统后台，会对使用记录进行数据挖掘，为学生、教师、学校提供个性化的实时评估和指导。
 
-这一小段文字看起来可能有点晕，可以先看一段视频，具体地解一下。
+这一小段文字看起来可能有点晕，可以先看一段视频，具体地解一下。<!-- more -->
 
-<iframe height=498 width=510 src="http://player.youku.com/embed/XNDgzMjM3OTUy" frameborder=0 allowfullscreen></iframe>
+<iframe height=490 width=800 src="http://player.youku.com/embed/XNDgzMjM3OTUy" frameborder=0 allowfullscreen></iframe>
 
 总结起来，Notemate做了这样三件事。
 
@@ -97,7 +97,7 @@ Notemate在真正动手开发之前，经过了漫长的关于产品设计和技
 
 或许和很多师兄对我说的一样，教育市场不是红海，不是蓝海，是黑海，有太多的非市场因素在起作用，我们这样一群学生，很难掀起什么大浪。
 
-到了2012年，虽然不再想着如何实际创业，但必不妨碍Notemate参加创业比赛，特别是佳贝、婍婧等经管同学的热心掺和，让我开始不断反思以前的路线错误。同时在顾明老师的指点下，我也意识到Notemate后台所积累的海量而细致的用户使用数据的重要性和巨大价值。
+到了2012年，虽然不再想着如何实际创业，但并不妨碍Notemate参加创业比赛，特别是佳贝、婍婧等经管同学的热心掺和，让我开始不断反思以前的路线错误。同时在顾明老师的指点下，我也意识到Notemate后台所积累的海量而细致的用户使用数据的重要性和巨大价值。
 
 在11月同济举行的“挑战杯”中国大学生创业计划竞赛中，Notemate拿下了全国金奖和最佳人气奖，也算没有让俊林、呈祥等童鞋的辛劳白费。
 

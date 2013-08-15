@@ -1,7 +1,7 @@
 function getNav() {
   var mainNav = $('ul.main-navigation, ul[role=main-navigation]').before('<fieldset class="mobile-nav">')
   var mobileNav = $('fieldset.mobile-nav').append('<select>');
-  mobileNav.find('select').append('<option value="">Navigate&hellip;</option>');
+  mobileNav.find('select').append('<option value="">导航&hellip;</option>');
   var addOption = function(i, option) {
     mobileNav.find('select').append('<option value="' + this.href + '">&raquo; ' + $(this).text() + '</option>');
   }
@@ -93,11 +93,11 @@ function flashVideoFallback(){
 
 function wrapFlashVideos() {
   $('object').each(function(i, object) {
-    if( $(object).find('param[name=movie]').length ){
+    if( $(object).attr('id') != "JIATHISSWF" && $(object).find('param[name=movie]').length ){
       $(object).wrap('<div class="flash-video">')
     }
   });
-  $('iframe[src*=vimeo],iframe[src*=youtube]').wrap('<div class="flash-video">')
+  //$('iframe[src*=vimeo],iframe[src*=youtube],iframe[src*=youku]').wrap('<div class="flash-video">')
 }
 
 function renderDeliciousLinks(items) {

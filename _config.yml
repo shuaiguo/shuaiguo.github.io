@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://shuaiguo.github.io
+url: http://xuetang.me
 title: 学堂
 subtitle: 走一路，学一路
 author: 天使大哥
@@ -33,6 +33,7 @@ destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
+category_title_prefix: 分类：
 markdown: rdiscount
 rdiscount:
   extensions:
@@ -44,13 +45,13 @@ pygments: false # default python pygments have been replaced by pygments.rb
 paginate: 6          # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 12       # Posts in the sidebar Recent Posts section
-excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
+excerpt_link: "阅读全文 &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
 titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/recent_posts.html]
+default_asides: [asides/recent_posts.html, asides/category_list.html, asides/links.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -67,4 +68,5 @@ default_asides: [asides/recent_posts.html]
 duoshuo_show: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-760258-5
+google_analytics_profile: xuetang.me
