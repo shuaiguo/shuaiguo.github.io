@@ -7,7 +7,7 @@ categories: 光影
 ---
 这篇日志断断续续地居然写了半年之久，可以说已经不能被称作日志了，或许应该叫半年志。早在去年11月份就想把它写出来，可是一直有其他事情排在它前面，耽误了过去。后来在我的一个比较不为人知的空间里，类似打草稿，或者类似连载一样，一部分一部分写了出来，这么一搞，就是半年。这充分说明了两点：一，我是一名负责任的博主；二，我是一名有毅力的博主。
 
-<iframe height=490 width=800 src="http://player.youku.com/embed/XMTI3NjY2NDI4" frameborder=0 allowfullscreen></iframe>
+<iframe height="490" width="100%" src="http://player.youku.com/embed/XMTI3NjY2NDI4" frameborder=0 allowfullscreen></iframe>
 
 《我的父亲你的母亲》的剧本我真的是用心在写，不夸张，是用心在写。在这个园子里的日子，对我来说，每一天都珍贵得很，所以一旦要用一段影像来记录在这里的时光，不用心怎么对得起自己呢。剧本从构思到落笔，再到最终定稿，有着太多的事应该记下，算作备忘。<!-- more -->
 
