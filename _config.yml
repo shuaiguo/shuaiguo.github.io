@@ -66,6 +66,8 @@ default_asides: [asides/recent_posts.html, asides/category_list.html, asides/lin
 
 # Duoshuo Comments
 duoshuo_show: true
+duoshuo_show_comment_count: true
+duoshuo_domain: "moocs"
 
 # Google Analytics
 google_analytics_tracking_id: UA-760258-5
