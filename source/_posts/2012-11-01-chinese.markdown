@@ -9,21 +9,21 @@ categories: 文字
 
 先看一下背景。
 
-![us](/images/posts/us.jpg)
+![us](http://xuetang.qiniudn.com/us.jpg)
 
 10月23日，苹果公司发布了平板小品 iPad mini，英文原版文案如上图所示。其中“There's less of it, but no less to it.”不同版本的中文翻译，引起了大家的关注。如果通俗地译一下，就是“比以前小巧了，却一点没缩水”。原版文案对less的多义活用，让广告语显得十分巧妙。Apple的大陆官网、香港官网、台湾官网也很快分别给出了自己的译文。<!-- more -->
 
 大陆版：“减小，却不减少”
 
-![cn](/images/posts/cn.jpg)
+![cn](http://xuetang.qiniudn.com/cn.jpg)
 
 香港版：“小了，但没少了”
 
-![hk](/images/posts/hk.jpg)
+![hk](http://xuetang.qiniudn.com/hk.jpg)
 
 台湾版：“简，而未减”
 
-![tw](/images/posts/tw.jpg)
+![tw](http://xuetang.qiniudn.com/tw.jpg)
 
 如果单纯从直译的角度上来看，香港官网的翻译无疑是最直接，最准确的。“小”与“少”在汉字结构上的相似性也与两个“less”有异曲同工之处。大陆官网的翻译也利用了这种对应，与香港版相较，更加通顺易懂，虽不算出彩，倒也在及格线以上。
 
@@ -37,6 +37,6 @@ categories: 文字
 
 写日志的过程中，随便看看其他产品的翻译，又发现了一个有趣的文案。
 
-![mac](/images/posts/mac.jpg)
+![mac](http://xuetang.qiniudn.com/mac.jpg)
 
 要说最实事求是，哪怕总部吹牛了，也绝不哄骗消费者的，还属祖国大陆。真乃业界良心。

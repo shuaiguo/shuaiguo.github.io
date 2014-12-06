@@ -7,7 +7,7 @@ categories: 学堂
 ---
 清华大学在5月底加入了 edX —— 由哈佛和MIT发起，目前知名的三大 MOOCs 站之一。经过了不足三个月的筹备和努力，于8月10日在 [edX](https://www.edx.org/school/tsinghuax/allcourses) 发布了首批两门大规模开放在线课程（MOOCs），分别是工科基础课《电路原理》和建筑学经典《中国建筑史》。这也是中国大陆地区高校首次对外发布在线课程。
 
-![TsinghuaX](https://www.edx.org/sites/default/files/school/image/banner/tsinghua-home-960x195_0.jpg)
+![TsinghuaX](http://xuetang.qiniudn.com/tsinghua-home.jpg)
 
 #### 电路原理
 
